@@ -1,7 +1,9 @@
 # Impacta
 DataScince_Python
 
-Para o projeto 1 as seguinte frases foram utilizadas para testar o codigo morse: 
+Foi utilizado o arquivo config.py para ler os inputs, assim como o exemplo mostrado em aula.
+
+As seguinte frases foram utilizadas para testar o codigo morse no projeto 1: 
 
 python decode_morse.py '.--. -.-- - .... --- -.  .. ...  -.-. --- --- .-..' = PYTHON IS COOL
 
